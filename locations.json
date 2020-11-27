@@ -1,0 +1,38 @@
+[
+    {
+        "location": "bhopal",
+        "restaurantname": "kfc"
+    },
+    {
+        "location": "delhi",
+        "restaurantname": "domino"
+    },
+    {
+        "location": "mumbai",
+        "restaurantname": "pizza hut"
+    },
+    {
+        "location": "pune",
+        "restaurantname": "burger king"
+    },
+    {
+        "location": "indore",
+        "restaurantname": "da pizzaria"
+    },
+    {
+        "location": "gwalior",
+        "restaurantname": "peenuts"
+    },
+    {
+        "location": "bhojpur",
+        "restaurantname": "cake & shakes"
+    },
+    {
+        "location": "chennai",
+        "restaurantname": "bake & shakes"
+    },
+    {
+        "location": "banglore",
+        "restaurantname": "waffers"
+    }
+]

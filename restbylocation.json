@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "locationid": 11,
+        " city": "bhopal",
+        "address": "mayur park mahal",
+        " restaurantname": "kfc"
+    },
+    {
+        "id": "2",
+        "locationid": 11,
+        "city": "bhopal",
+        "address": "DB mall maharana pratap road",
+        "restaurantname": "domino"
+    },
+    {
+        "id": "3",
+        "locationid": 12,
+        "city": "delhi",
+        "address": "mukerjee nagar",
+        " restaurantname": "bapu ki kutia"
+    },
+    {
+        "id": "4",
+        "locationid": 12,
+        "city": "delhi",
+        "address": "greater noida",
+        "restaurantname": "pizza house"
+    },
+    {
+        "id": "5",
+        "locationid": 13,
+        "city": "indore",
+        "address": "ragiv gandhi national stadium",
+        "restaurantname": "chatori gali"
+    }
+]
